@@ -1,0 +1,5 @@
+/root/NetBeansProjects/F_Launcher/./Thisiscurrentlocation.txt
+user.dir: /root/NetBeansProjects/F_Launcher
+java.home: /usr/lib/jvm/java-7-openjdk/jre
+user.home: /root
+current dir: file:/root/NetBeansProjects/F_Launcher/build/classes/

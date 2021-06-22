@@ -1,0 +1,6 @@
+#Property File for Flappy Byrd Launcher
+#Tue Mar 01 22:04:06 EST 2016
+debug=false
+resolution=0
+fullscreen=true
+vsync=false
